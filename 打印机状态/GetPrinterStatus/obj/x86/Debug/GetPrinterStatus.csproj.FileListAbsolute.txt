@@ -1,0 +1,7 @@
+D:\Documents\Visual Studio 2010\Projects\打印机状态\GetPrinterStatus\bin\Debug\GetPrinterStatus.exe
+D:\Documents\Visual Studio 2010\Projects\打印机状态\GetPrinterStatus\bin\Debug\GetPrinterStatus.pdb
+D:\Documents\Visual Studio 2010\Projects\打印机状态\GetPrinterStatus\bin\Debug\PrinterAPI.dll
+D:\Documents\Visual Studio 2010\Projects\打印机状态\GetPrinterStatus\bin\Debug\PrinterAPI.pdb
+D:\Documents\Visual Studio 2010\Projects\打印机状态\GetPrinterStatus\obj\x86\Debug\GetPrinterStatus.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\打印机状态\GetPrinterStatus\obj\x86\Debug\GetPrinterStatus.exe
+D:\Documents\Visual Studio 2010\Projects\打印机状态\GetPrinterStatus\obj\x86\Debug\GetPrinterStatus.pdb

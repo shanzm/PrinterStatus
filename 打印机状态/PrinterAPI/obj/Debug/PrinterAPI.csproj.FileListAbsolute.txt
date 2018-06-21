@@ -1,0 +1,4 @@
+D:\Documents\Visual Studio 2010\Projects\打印机状态\PrinterAPI\bin\Debug\PrinterAPI.dll
+D:\Documents\Visual Studio 2010\Projects\打印机状态\PrinterAPI\bin\Debug\PrinterAPI.pdb
+D:\Documents\Visual Studio 2010\Projects\打印机状态\PrinterAPI\obj\Debug\PrinterAPI.dll
+D:\Documents\Visual Studio 2010\Projects\打印机状态\PrinterAPI\obj\Debug\PrinterAPI.pdb
