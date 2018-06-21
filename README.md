@@ -1,0 +1,2 @@
+# PrinterStatus
+调用一个自定义的打印机类库PrinterAPI，查看本机的打印机和打印机状态等
